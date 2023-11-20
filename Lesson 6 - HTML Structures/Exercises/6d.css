@@ -1,0 +1,25 @@
+p {
+    font-family: Montserrat;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 10px;
+}
+.Desc {
+    font-size: medium;
+}
+.underline {
+    font-size: medium;
+    text-decoration: underline;
+}
+
+
+/*
+    In given ans margin-bottom is 10px i gave 15px
+    and only text-deco is used font-size is not specified
+*/
