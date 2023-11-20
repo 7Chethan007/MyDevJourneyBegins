@@ -1,0 +1,48 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+
+    font-family: Arial;
+    color: rgb(100, 100, 100);
+    font-size: 16px;
+}
+
+.text {
+    margin-bottom: 10px;
+}
+
+.email {
+    margin-bottom: 20px;
+
+    font-size: 16px;
+    font-size: 16px;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(100, 100, 100);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+}
+
+.text1 {
+    margin-bottom: 10px;
+
+    
+}
+
+.Up {
+    color: white;
+    background-color: rgb(35, 35, 173);
+    border: none;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+    width: 400px;
+}
