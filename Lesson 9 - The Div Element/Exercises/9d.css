@@ -1,0 +1,29 @@
+.Music {
+    width: 400px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(33,33,33);
+    padding-left: 15px;
+    font-size: bold;
+
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.h1 {
+    font-size: x-large;
+
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+.h2 {
+    color: rgb(160,160,160);
+}
+
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
